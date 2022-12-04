@@ -93,3 +93,8 @@ form{
     align-items: center;
     justify-content: space-between;
 }
+
+.golova{
+    align-items: center
+    font-size: 80px
+}
